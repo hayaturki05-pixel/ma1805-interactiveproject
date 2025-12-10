@@ -1,5 +1,6 @@
 # ma1805-interactiveproject
 https://github.com/hayaturki05-pixel/ma1805-interactiveproject 
+
 https://hayaturki05-pixel.github.io/ma1805-interactiveproject/
 
 This is an interactive project based on digital surveillance that occurs on social media platforms as Instagram and TikTok. Any form of visible Palestine advocacy or alliance on posts and stories even simply, by interacting with those on certain accounts by liking, commenting, and reposting will lead to censorship – by a false and vague community guidelines violation or shadow banning to filter these views of content. I am Palestinian, which naturally instilled the urgency to further advocate and spread awareness on this issue that people and users can easily be manipulated and misled by from this forced shift of narrative and that is to create a scrolling insta feature to resemble the act of when someone is truly scrolling on insta’s feed – even TikTok as well on their For You page.
